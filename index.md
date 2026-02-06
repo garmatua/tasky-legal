@@ -4,7 +4,7 @@
 
 ## Our Privacy Commitment
 
-Tasky is designed with your privacy as the top priority. We believe your tasks and personal data should stay yours—not ours.
+Tasky - Daily Planner is designed with your privacy as the top priority. We believe your tasks and personal data should stay yours—not ours.
 
 ## Data Collection & Storage
 
@@ -62,7 +62,7 @@ We use the following third-party services to improve the app:
 
 ## Widgets & App Groups
 
-Tasky uses iOS App Groups to share data between the main app and widgets.
+Tasky - Daily Planner uses iOS App Groups to share data between the main app and widgets.
 - **Purpose:** Allow widgets to display your tasks
 - **Scope:** Data shared ONLY between Tasky app and Tasky widgets on YOUR device
 - **Privacy:** No external access—stays on your device
